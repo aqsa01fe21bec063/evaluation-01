@@ -1,3 +1,8 @@
+//Generate random numbers and store it in text file and push the numbers on to the stackFile file and also pushed elemeys must be stored
+//in push and poped elements in pop file and all these operations must be stored in operation filr.
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
