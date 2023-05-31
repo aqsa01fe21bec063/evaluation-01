@@ -1,3 +1,7 @@
+//Generate random numbers and store it in text file and push the numbers on to the queue file and also pushed elemeys must be stored
+//in push and enqueue elements in dequeue file and all these operations must be stored in operation_queue file.
+
+
 #include<stdio.h>
 
 #include<stdlib.h>
